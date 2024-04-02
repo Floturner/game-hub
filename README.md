@@ -1,8 +1,6 @@
 # GameHub
 
-GameHub is a video game discovery web app that helps you find new and interesting games to play. With GameHub, you can search for games by platform, genre, view game details, and more.
-
-This is a real-world application built with React and TypeScript.
+GameHub is a video game discovery web application that allows users to find new and interesting games. With GameHub, users can search for games by platform, genre, view game details, and more.
 
 ## Demo
 
